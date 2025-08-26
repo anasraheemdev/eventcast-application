@@ -126,8 +126,3 @@ Contributions are welcome!
 4. Push and create a PR
 
 ---
-
-## 📜 License
-Licensed under the **MIT License**.
-
----
