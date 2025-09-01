@@ -1,4 +1,4 @@
-# EventCast V3 (Mobile)
+# EventCast (Mobile)
 
 EventCast V3 is a modern **React Native mobile application** designed for event management and live engagement. It allows users to discover, register, and participate in events while giving organizers tools to manage attendees, tickets, and live streaming seamlessly.
 
@@ -48,6 +48,36 @@ npm run ios
 ```
 
 ---
+# Build
+
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+
+To build the APK from your end, follow the following steps:
+
+ Using the terminal, enter the following commands:
+ 
+ 1. $ npm i -g eas-cli (CLI will be installed)
+
+2.  $ eas login (log in to expo)
+
+3.  $ eas init
+
+4.  $ eas build -p android --profile apk (In case of APK Build)
+
+
+5.  $ eas build -p android --profile release (In case of AAB Build)
+
+
+
 
 ## 📂 Project Structure
 ```
