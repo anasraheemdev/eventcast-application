@@ -30,7 +30,7 @@ const countries = {
   Oceania: ["Australia", "New Zealand", "Fiji", "Papua New Guinea", "Solomon Islands", "Vanuatu", "Samoa", "Tonga", "Kiribati", "Marshall Islands", "Micronesia", "Palau", "Nauru", "Tuvalu"],
 };
 const cities = {
-  Pakistan: ["Islamabad", "Karachi", "Lahore", "Faisalabad", "Rawalpindi", "Multan", "Hyderabad", "Gujranwala", "Peshawar", "Quetta"],
+  Pakistan: ["Islamabad", "Karachi", "Lahore", "Faisalabad","Cheecha Watni" "Rawalpindi", "Multan", "Hyderabad", "Gujranwala", "Peshawar", "Quetta"],
   India: ["Delhi", "Mumbai", "Bangalore", "Hyderabad", "Ahmedabad", "Chennai", "Kolkata", "Surat", "Pune", "Jaipur"],
   China: ["Beijing", "Shanghai", "Guangzhou", "Shenzhen", "Chongqing", "Tianjin", "Wuhan", "Dongguan", "Shenyang", "Hangzhou"],
   Japan: ["Tokyo", "Osaka", "Kyoto", "Yokohama", "Nagoya", "Sapporo", "Kobe", "Fukuoka", "Kawasaki", "Saitama"],
